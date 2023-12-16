@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shengnan An (安晟男)"
+title                    : "Shengnan An"
 description              : "Joint Ph.D. Candidate in Xi'an Jiaotong University & Microsoft Research Asia. Focusing on NLP and Deep Learning."
 repository               : "ShengnanAn/ShengnanAn.github.io"
 google_scholar_stats_use_cdn : False
 
 # Site Author
 author:
-  name             : "Shengnan An (安晟男)"
+  name             : "Shengnan An"
   avatar           : "images/my_photo.png"
   bio              : 
   location         : "Beijing, China"
