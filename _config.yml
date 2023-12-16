@@ -6,30 +6,22 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
-
-# google analytics
-google_analytics_id      : G-SWFCX99KQZ
-
-# SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+title                    : "Shengnan An (安晟男)"
+description              : "Joint Ph.D. Candidate in Xi'an Jiaotong University & Microsoft Research Asia. Focusing on NLP and Deep Learning."
+repository               : "ShengnanAn/ShengnanAn.github.io"
+google_scholar_stats_use_cdn : False
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  name             : "Shengnan An (安晟男)"
+  avatar           : "images/my_photo.png"
+  bio              : "Joint Ph.D. Candidate in Xi'an Jiaotong University & Microsoft Research Asia"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=oPiRHWMAAAAJ&hl=en"
+  email            : "an1006634493@stu.xjtu.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +29,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
