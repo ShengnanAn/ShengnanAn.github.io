@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 
+-	**Make Your LLM Fully Utilize the Context. (arXiv)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
+  <ins>**Shengnan An**</ins>, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
 -	**Learning From Mistakes Makes LLM Better Reasoner. (arXiv)** [[Paper]](https://arxiv.org/abs/2310.20689) [[Code]](https://github.com/microsoft/LEMA/)  
   <ins>**Shengnan An**</ins>, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 -	**Compositional API Recommendation for Library-Oriented Code Generation. (ICPC 2024)** [[Paper]](https://arxiv.org/abs/2402.19431)  
