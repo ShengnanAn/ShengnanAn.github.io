@@ -1,12 +1,16 @@
 
 # 📝 Publications 
 
--	**Make Your LLM Fully Utilize the Context. (arXiv)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
+-	**Make Your LLM Fully Utilize the Context. (NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2404.16811) [[Code]](https://github.com/microsoft/FILM)  
   <ins>**Shengnan An**</ins>, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
 -	**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation. (under review)**\
   Zexiong Ma, <ins>**Shengnan An**</ins>, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.
--	**Learning From Mistakes Makes LLM Better Reasoner. (arXiv)** [[Paper]](https://arxiv.org/abs/2310.20689) [[Code]](https://github.com/microsoft/LEMA/)  
+- **Can LLMs Learn From Mistakes? An Empirical Study on Reasoning Tasks. (EMNLP 2024)** [[Paper]](https://aclanthology.org/2024.findings-emnlp.46/) [[Code]](https://github.com/microsoft/LEMA/)
+  <ins>**Shengnan An**</ins>, Zexiong Ma, Siqi Cai, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
+-	**Learning From Mistakes Makes LLM Better Reasoner. (arXiv version of our EMNLP 2024 paper)** [[Paper]](https://arxiv.org/abs/2310.20689)
   <ins>**Shengnan An**</ins>, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.
+- **STAND-Guard: A Small Task-Adaptive Content Moderation Model. (COLING 2025)** [[Paper]](https://arxiv.org/abs/2411.05214)  
+  Minjia Wang, Pingping Lin, Siqi Cai, <ins>**Shengnan An**</ins>, Shengjie Ma, Zeqi Lin, Congrui Huang, Bixiong Xu
 -	**Compositional API Recommendation for Library-Oriented Code Generation. (ICPC 2024)** [[Paper]](https://arxiv.org/abs/2402.19431)  
   Zexiong Ma, <ins>**Shengnan An**</ins>, Bing Xie, Zeqi Lin. 
 -	**Skill-Based Few-Shot Selection for In-Context Learning. (EMNLP 2023)** [[Paper]](https://aclanthology.org/2023.emnlp-main.831/)  
