@@ -5,6 +5,8 @@
 - *2016.09 - 2020.06*, Xi’an Jiaotong University, Bachelor’s Degree. Honorable Degree for Qian Xuesen Class (钱学森班).
 
 # ☀️ Honors and Awards
+- National Scholarship (2024)
+- China Mobile Scholarship (2024)
 - Outstanding Graduate Student (2023)
 - Outstanding Graduate Cadre (2020)
 - Star of Tomorrow in MSRA (2019, 2020)
