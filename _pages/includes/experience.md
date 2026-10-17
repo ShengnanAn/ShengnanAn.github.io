@@ -4,9 +4,9 @@
 ### Meituan · LongCat Foundation Model Team
 *July 2025 – Present · Researcher, Beidou Program*
 
-I contribute to the development and releases of the LongCat model family, focusing on Mid-Train data curation and model evaluation.
+I contribute to the development and releases of the LongCat model family, focusing on mid-training data curation and model evaluation.
 
-- **Training data curation.** Turn user interaction logs into quality-controlled agent trajectories through preprocessing, session aggregation, filtering, and de-identification. Analyze data retention across sources and batches, and use small-model training experiments to inform data admission.
+- **Mid-training data curation.** Turn user interaction logs into quality-controlled agent trajectories through preprocessing, session aggregation, filtering, and de-identification. Analyze data retention across sources and batches, and use small-model training experiments to inform data admission.
 - **AI at Work evaluation.** Build and iterate on tasks, environments, and rubric-based LLM grading for productivity scenarios. Analyze evaluation failures and adapt the evaluation pipeline for comparisons with external models. [[FORTE]](https://agi-eval-official.github.io/FORTE/)
 - **Reasoning evaluation.** Build challenging benchmarks for mathematical and general reasoning, combining reliable automated grading with analyses of token efficiency, test-time scaling, and cross-lingual robustness. [[AMO-Bench]](https://amo-bench.github.io/) [[General365]](https://general365.github.io/)
 

@@ -2,6 +2,6 @@ Hi! I'm **Shengnan An (安晟男)**, a researcher on the **LongCat Foundation Mo
 
 I received my Ph.D. from **Xi'an Jiaotong University** in June 2025, advised by Prof. Nanning Zheng, through a joint training program with **Microsoft Research Asia (MSRA)**. I was a research intern at MSRA from August 2019 to June 2025, working with Jian-Guang Lou and Zeqi Lin.
 
-My research focuses on understanding and improving the capabilities of large language models, with an emphasis on **mathematical and general reasoning, agents for productivity work, training data, and long-context understanding**. My earlier work also explores in-context learning, code generation, and compositional generalization.
+My research focuses on understanding and improving the capabilities of large language models, with an emphasis on **mathematical and general reasoning, agents for productivity work, and mid-training data curation**. My earlier research covered long-context understanding, in-context learning, code generation, and compositional generalization.
 
 [Google Scholar](https://scholar.google.com/citations?user=oPiRHWMAAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Shengnan-An/2119217081) · [Email](mailto:an_shengnan@foxmail.com)
