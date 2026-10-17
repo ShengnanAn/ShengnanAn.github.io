@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengnan An"
-description              : "Joint Ph.D. Candidate in Xi'an Jiaotong University & Microsoft Research Asia. Focusing on NLP and Deep Learning."
+description              : "Researcher at Meituan LongCat. Working on LLM reasoning, agent evaluation, training data, and long-context understanding."
 repository               : "ShengnanAn/ShengnanAn.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -20,7 +20,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oPiRHWMAAAAJ&hl=en"
-  email            : "an1006634493@stu.xjtu.edu.cn"
+  email            : "an_shengnan@foxmail.com"
   researchgate     :  
   uri              :
   bitbucket        :

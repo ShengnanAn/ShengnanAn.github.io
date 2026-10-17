@@ -1,8 +1,8 @@
+<span class="anchor" id="education"></span>
+# 📖 Education
 
-# 📖 Educations
-- *2020.09 - 2025.06*, Xi’an Jiaotong University, Ph.D Candidate. Adviser: Prof. Nanning Zheng.
-- *2019.09 - 2025.06*, Microsoft Research Asia, Joint Ph.D Program. Adviser: Jian-Guang Lou. Mentor: Zeqi Lin.
-- *2016.09 - 2020.06*, Xi’an Jiaotong University, Bachelor’s Degree. Honorable Degree for Qian Xuesen Class (钱学森班).
+- **Xi'an Jiaotong University**, Ph.D., September 2020 – June 2025. Advisor: Prof. Nanning Zheng. Joint training with Microsoft Research Asia; research in natural language processing.
+- **Xi'an Jiaotong University**, B.Eng. in Automation, September 2016 – June 2020. Qian Xuesen Honors Class; GPA: 4.0/4.3.
 
 # ☀️ Honors and Awards
 - Outstanding Graduate (2025)
