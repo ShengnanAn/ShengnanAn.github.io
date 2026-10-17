@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengnan An"
-description              : "Researcher at Meituan LongCat. Working on LLM reasoning, agent evaluation, and mid-training data curation."
+description              : "Researcher at Meituan LongCat. Working on mid-training data curation, agent evaluation, and LLM reasoning."
 repository               : "ShengnanAn/ShengnanAn.github.io"
 google_scholar_stats_use_cdn : False
 
